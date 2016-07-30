@@ -2,7 +2,7 @@
   "name": "TrackUP",
   "short_name": "TrackUP",
   "icons": [{
-        "src": "images/touch/trackup_icon.png",
+        "src": "images/touch/picker_128.png",
         "type": "image/png",
         "sizes": "128x128"
       }, {
@@ -19,12 +19,12 @@
         "sizes": "192x192"
       },
       {
-        "src": "images/touch/Airhorner_256.png",
+        "src": "images/touch/picker_256.png",
         "type": "image/png",
         "sizes": "256x256"
       },
       {
-        "src": "images/touch/Airhorner_512.png",
+        "src": "images/touch/picker_512.png",
         "type": "image/png",
         "sizes": "512x512"
       }],
